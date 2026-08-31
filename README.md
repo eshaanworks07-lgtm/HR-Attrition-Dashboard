@@ -17,7 +17,7 @@ Power BI, DAX, Power Query, Cards, Bar and Column Charts, Slicers
 Dashboard
 ## Dashboard
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](PBIDashboard.png)
 Key Insights
 1. Overall Attrition: The overall attrition rate was 16.12%, with 237 out of 1,470 employees leaving.
    Sales had the highest attrition at 20.63%, while R&D had the lowest at 13.84%.
