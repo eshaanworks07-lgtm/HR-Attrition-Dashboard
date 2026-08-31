@@ -37,4 +37,4 @@ After that, I'd look at salary, years at the company and job satisfaction to see
 Files
 
 HR_Attrition_Dashboard.pbix: Power BI dashboard
-screenshots/dashboard.png: Dashboard screenshot
+screenshots/dashboard.png: PBI Dashboard screenshot.png
